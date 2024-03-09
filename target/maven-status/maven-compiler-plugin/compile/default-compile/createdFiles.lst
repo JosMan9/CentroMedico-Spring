@@ -1,0 +1,6 @@
+com\example\service\ClienteServicio.class
+com\example\BasicApplication.class
+com\example\controller\ClienteController.class
+com\example\controller\MedicoController.class
+com\example\entity\Cliente.class
+com\example\repository\ClienteRepository.class
